@@ -1,0 +1,4 @@
+#### change the path by using python
+import sys
+print sys.path
+sys.path.append('/home/rwang6/pythonpackage/')   # now you can import any packages from under this path
